@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- _______ strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="______string"> </string>
+	<string name="_______________string">   </string>
+	<string name="___________string">  </string>
+	<string name="________string"></string>
+	<string name="______ek1_string"></string>
+	<string name="_______string"></string>
+	<string name="_____string"></string>
+	<string name="________ek1_string"></string>
+	<string name="______ek2_string"></string>
+	<string name="_16km_string">16km</string>
+	<string name="________________76_string">    76</string>
+	<string name="_0km_string">0km</string>
+	<string name="____________13___6_string">   13 6</string>
+	<string name="_16km_ek1_string">16km</string>
+	<string name="________________76_ek1_string">    76</string>
+	<string name="___________ek1_string">  </string>
+	<string name="___________ek2_string">  </string>
+</resources>
