@@ -1,0 +1,221 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		____
+	 *	@date 		Thursday 25th of July 2024 11:51:28 AM
+	 *	@title 		 
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/____" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg_______"
+				android:background="@drawable/_bg________shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+			<View   android:id="@+id/_____73"
+				android:background="@drawable/_____73_shape"
+				 android:layout_marginStart="55dp"
+				android:layout_marginTop="93dp"
+				android:layout_width="320dp"
+				android:layout_height="50dp" />
+
+			<View   android:id="@+id/_____74"
+				android:background="@drawable/_____74_shape"
+				 android:layout_marginStart="195dp"
+				android:layout_marginTop="93dp"
+				android:layout_width="182dp"
+				android:layout_height="52dp" />
+
+			<TextView android:id="@+id/_____"
+				android:fontFamily="Haan YHead L"
+				android:textSize="20sp"
+				android:textColor="@color/______color"
+				android:layout_marginLeft="253dp"
+				android:layout_marginTop="103dp"
+				android:layout_width="95dp"
+				android:layout_height="41dp"
+				android:text="@string/______string"
+				 />
+
+			<TextView android:id="@+id/___"
+				android:fontFamily="Haan YHead L"
+				android:textSize="20sp"
+				android:textColor="@color/____color"
+				android:layout_marginLeft="128dp"
+				android:layout_marginTop="103dp"
+				android:layout_width="55dp"
+				android:layout_height="41dp"
+				android:text="@string/____string"
+				 />
+
+			<ImageView android:id="@+id/___5"
+				android:src="@drawable/___5"
+				android:contentDescription="___5"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="63.75dp"
+				android:layout_width="430dp"
+				android:layout_height="0.5dp" />
+
+
+			<RelativeLayout android:id="@+id/____155"
+				android:layout_marginTop="173dp"
+				android:layout_marginStart="55dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<TextView android:id="@+id/_24_5_31__15_00"
+					android:fontFamily="Haan YHead L"
+					android:textSize="15sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="109dp"
+					android:layout_height="30.5dp"
+					android:text="@string/_24_5_31__15_00_string"
+					 />
+
+				<TextView android:id="@+id/________________________________"
+					android:fontFamily="Haan YHead L"
+					android:textSize="18sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="23dp"
+					android:layout_width="237dp"
+					android:layout_height="37dp"
+					android:text="@string/_________________________________string"
+					 />
+
+			</RelativeLayout>
+
+
+			<RelativeLayout android:id="@+id/____156"
+				android:layout_marginTop="235dp"
+				android:layout_marginStart="55dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<TextView android:id="@+id/_24_5_30__20_00"
+					android:fontFamily="Haan YHead L"
+					android:textSize="15sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="109dp"
+					android:layout_height="30.5dp"
+					android:text="@string/_24_5_30__20_00_string"
+					 />
+
+				<TextView android:id="@+id/_________________________________ek1"
+					android:fontFamily="Haan YHead L"
+					android:textSize="18sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="23dp"
+					android:layout_width="237dp"
+					android:layout_height="37dp"
+					android:text="@string/_________________________________ek1_string"
+					 />
+
+			</RelativeLayout>
+
+
+			<RelativeLayout android:id="@+id/____157"
+				android:layout_marginTop="297dp"
+				android:layout_marginStart="55dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<TextView android:id="@+id/_24_5_29__15_00"
+					android:fontFamily="Haan YHead L"
+					android:textSize="15sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="109dp"
+					android:layout_height="30.5dp"
+					android:text="@string/_24_5_29__15_00_string"
+					 />
+
+				<TextView android:id="@+id/_________________________________ek2"
+					android:fontFamily="Haan YHead L"
+					android:textSize="18sp"
+					android:textColor="@color/_24_5_31__15_00_color"
+					android:layout_marginLeft="0dp"
+					android:layout_marginTop="23dp"
+					android:layout_width="237dp"
+					android:layout_height="37dp"
+					android:text="@string/_________________________________ek2_string"
+					 />
+
+			</RelativeLayout>
+
+
+			<RelativeLayout android:id="@+id/____315"
+				android:layout_marginTop="21.263671875dp"
+				android:layout_marginStart="18.5dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<ImageView android:id="@+id/___2"
+					android:src="@drawable/___2"
+					android:contentDescription="___2"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="-2dp"
+					android:layout_width="14.27197265625dp"
+					android:layout_height="14.271911621094dp" />
+
+				<ImageView android:id="@+id/___3"
+					android:src="@drawable/___3"
+					android:contentDescription="___3"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="9dp"
+					android:layout_width="14.27197265625dp"
+					android:layout_height="14.271911621094dp" />
+
+				<ImageView android:id="@+id/___4"
+					android:src="@drawable/___4"
+					android:contentDescription="___4"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="9dp"
+					android:layout_width="24.6884765625dp"
+					android:layout_height="2.5dp" />
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/________"
+				android:fontFamily="Haan YHead L"
+				android:textSize="20sp"
+				android:textColor="@color/_24_5_31__15_00_color"
+				android:layout_marginLeft="161dp"
+				android:layout_marginTop="18dp"
+				android:layout_width="143dp"
+				android:layout_height="41dp"
+				android:text="@string/_________string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,44 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		______
+	 *	@date 		Thursday 25th of July 2024 11:53:23 AM
+	 *	@title 		 
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/______" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg_________"
+				android:background="@drawable/_bg__________shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+			<ImageView android:id="@+id/____334"
+				android:src="@drawable/____334"
+				android:contentDescription="____334"
+				 android:layout_marginStart="115dp"
+				android:layout_marginTop="200dp"
+				android:layout_width="199.50799560547dp"
+				android:layout_height="130.54254150391dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

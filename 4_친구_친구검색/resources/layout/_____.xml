@@ -1,0 +1,151 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		_____
+	 *	@date 		Thursday 25th of July 2024 11:46:53 AM
+	 *	@title 		 
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/_____" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg________"
+				android:background="@drawable/_bg_________shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+			<ImageView android:id="@+id/___5"
+				android:src="@drawable/___5"
+				android:contentDescription="___5"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="63.75dp"
+				android:layout_width="430dp"
+				android:layout_height="0.5dp" />
+
+			<View   android:id="@+id/_____84"
+				android:background="@drawable/_____84_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="85dp"
+				android:layout_width="390dp"
+				android:layout_height="40dp" />
+
+
+			<RelativeLayout android:id="@+id/____201"
+				android:layout_marginTop="91.007080078125dp"
+				android:layout_marginStart="374dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<ImageView android:id="@+id/____130"
+					android:src="@drawable/____130"
+					android:contentDescription="____130"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="25.67333984375dp"
+					android:layout_height="25.985717773438dp" />
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/____"
+				android:fontFamily="Haan YHead L"
+				android:alpha="0.5"
+				 android:textSize="15sp"
+				android:textColor="@color/_____color"
+				android:layout_marginLeft="45dp"
+				android:layout_marginTop="92dp"
+				android:layout_width="58dp"
+				android:layout_height="30.5dp"
+				android:text="@string/_____string"
+				 />
+
+
+			<RelativeLayout android:id="@+id/____202"
+				android:layout_marginTop="150dp"
+				android:layout_marginStart="26dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/____39"
+					android:background="@drawable/____39_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="42dp"
+					android:layout_height="42dp" />
+
+
+				<RelativeLayout android:id="@+id/____193"
+					android:layout_marginTop="1dp"
+					android:layout_marginStart="50dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/_____ek1"
+						android:fontFamily="Haan YHead L"
+						android:textSize="15sp"
+						android:textColor="@color/_____color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="58dp"
+						android:layout_height="30.5dp"
+						android:text="@string/_____ek1_string"
+						 />
+
+					<TextView android:id="@+id/dhdmsrud"
+						android:fontFamily="Haan YHead L"
+						android:textColor="@color/dhdmsrud_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="23dp"
+						android:layout_width="55dp"
+						android:layout_height="21dp"
+						android:text="@string/dhdmsrud_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/_x"
+				android:fontFamily="Haan YHead L"
+				android:textSize="25sp"
+				android:textColor="@color/_x_color"
+				android:layout_marginLeft="23dp"
+				android:layout_marginTop="15dp"
+				android:layout_width="33dp"
+				android:layout_height="50.5dp"
+				android:text="@string/_x_string"
+				 />
+
+			<TextView android:id="@+id/___"
+				android:fontFamily="Haan YHead L"
+				android:textSize="20sp"
+				android:textColor="@color/_x_color"
+				android:layout_marginLeft="198dp"
+				android:layout_marginTop="18dp"
+				android:layout_width="55dp"
+				android:layout_height="41dp"
+				android:text="@string/____string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- ____ strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="s_string">S</string>
+	<string name="nickname_string">NickName</string>
+	<string name="______string"></string>
+	<string name="_____string"></string>
+	<string name="______ek1_string"> </string>
+	<string name="____string"></string>
+	<string name="_______string"> </string>
+	<string name="___string">?</string>
+</resources>

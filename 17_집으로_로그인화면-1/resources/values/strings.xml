@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- _________1 strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="username_string">UserName</string>
+	<string name="sign_in_string">sign in</string>
+	<string name="login_string">Login</string>
+	<string name="password_string">PassWord</string>
+	<string name="___________string">  </string>
+	<string name="id____string">ID </string>
+	<string name="___string">|</string>
+	<string name="pw____string">PW </string>
+	<string name="____string"></string>
+	<string name="_____________string"> </string>
+	<string name="___________ek1_string"> </string>
+	<string name="______string"></string>
+</resources>

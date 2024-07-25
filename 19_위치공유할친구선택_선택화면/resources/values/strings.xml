@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- _____________ strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_____string"></string>
+	<string name="s_string">S</string>
+	<string name="_____ek1_string"></string>
+	<string name="dhdmsrud_string">dhdmsrud</string>
+	<string name="_____ek2_string"></string>
+	<string name="tjdgywns_string">tjdgywns</string>
+	<string name="_____ek3_string"></string>
+	<string name="rlatpqls_string">rlatpqls</string>
+	<string name="_____ek4_string"></string>
+	<string name="dlgksqls_string">dlgksqls</string>
+	<string name="_____ek5_string"></string>
+	<string name="wkddlsdud_string">wkddlsdud</string>
+	<string name="_____ek6_string"></string>
+	<string name="rladydaks_string">rladydaks</string>
+	<string name="_______string">   </string>
+	<string name="______________string">   </string>
+</resources>

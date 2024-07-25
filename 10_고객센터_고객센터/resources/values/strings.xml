@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- ____ strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="______string"></string>
+	<string name="______________string"> ? </string>
+	<string name="_______________string">  </string>
+	<string name="__________string">  </string>
+	<string name="_q____1__string">Q  1 </string>
+	<string name="q____2__string">Q  2 </string>
+	<string name="q____3_string">Q  3</string>
+	<string name="q____4__string">Q  4 </string>
+	<string name="_x_string">X</string>
+	<string name="___________________string">   . </string>
+</resources>

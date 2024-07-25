@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- __ strings -->
+
+	<string name="app_name"> </string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_________string">/</string>
+	<string name="_______string"></string>
+	<string name="____string"></string>
+	<string name="_24_5_31__15_00_string">24/5/31  15:00</string>
+	<string name="_00__________________string">00  .</string>
+	<string name="_24_5_30__20_00_string">24/5/30  20:00</string>
+	<string name="_00___________________string">00 [] .</string>
+	<string name="_24_5_29__15_00_string">24/5/29  15:00</string>
+	<string name="_00__________________ek1_string">00  .</string>
+</resources>
